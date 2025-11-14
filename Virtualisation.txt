@@ -1,0 +1,3 @@
+Introduction
+
+La virtualisation est aujourd’hui au cœur des infrastructures informatiques modernes. Elle permet de maximiser l’utilisation des ressources physiques, de réduire les coûts et d’améliorer la flexibilité des systèmes. Windows Server, grâce à sa technologie Hyper-V, offre une solution robuste pour créer et gérer des environnements virtualisés. Cet article présente les meilleures pratiques pour virtualiser et optimiser les ressources dans un contexte professionnel.
