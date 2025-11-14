@@ -1,0 +1,9 @@
+1. Comprendre la virtualisation avec Windows Server
+Windows Server intègre Hyper-V, une technologie de virtualisation native qui permet :
+•	La création de machines virtuelles isolées.
+•	La gestion centralisée via des outils graphiques ou en ligne de commande.
+•	La compatibilité avec les environnements hybrides et cloud.
+Avantages clés
+•	Réduction des coûts matériels.
+•	Isolation des services pour plus de sécurité.
+•	Scalabilité et flexibilité pour répondre aux besoins évolutifs.
