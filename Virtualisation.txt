@@ -10,3 +10,9 @@ Avantages clés
 •	Réduction des coûts matériels.
 •	Isolation des services pour plus de sécurité.
 •	Scalabilité et flexibilité pour répondre aux besoins évolutifs.
+
+2. Préparation de l’infrastructure
+Avant de déployer Hyper-V, il est essentiel de :
+•	Vérifier la compatibilité matérielle (processeur avec support de la virtualisation).
+•	Planifier la répartition des ressources (CPU, mémoire, stockage).
+•	Mettre à jour le système pour bénéficier des dernières améliorations de sécurité et de performance.
